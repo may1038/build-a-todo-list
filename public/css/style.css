@@ -1,0 +1,28 @@
+body {
+  font-family: 'Indie Flower', cursive;
+  height: 50px;
+  margin-left: 50px;
+}
+
+span, li {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+li {
+  text-decoration: line-through;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 300px;
+  height:500px;
+}
+
+.btn {
+  margin-top: 15px;
+  width: 100px;
+  height: 15px;
+}
